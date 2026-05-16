@@ -1,4 +1,4 @@
-
+venv311/
 # Datos grandes y archivos generados
 Data/sidpol_consolidado_final_limpio_v5_comisarias_2020_por_nombre.csv
 Data/salida_preprocesamiento/*.csv
